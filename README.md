@@ -8,7 +8,7 @@ This repository contains all the python projects I've worked on or practiced con
 2. CodeAcademy
 
 # Learn Python The Hard Way
-Using the 1st Edition of Learn Python 3 the Hard Way, I learned and grew my Python 3 skilss. Apparently this is a new edition and not the 4th edition because it teaches Python 3.The free HTML version of the book is available at [http://learnpythonthehardway.org/python3/](http://learnpythonthehardway.org/python3/) and it has been very helpful in my journey.
+Using the 1st Edition of Learn Python 3 the Hard Way, I learned and grew my Python 3 skills. Apparently this is a new edition and not the 4th edition because it teaches Python 3.The free HTML version of the book is available at [http://learnpythonthehardway.org/python3/](http://learnpythonthehardway.org/python3/) and it has been very helpful in my journey.
 
 ## Table Of Contents
 * [Exercise 0: The Setup](https://learnpythonthehardway.org/python3/ex0.html)
