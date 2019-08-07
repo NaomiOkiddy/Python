@@ -2,7 +2,7 @@
 
 _(Photo credit: [www.digitalocean.com](https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3))_
 
-This repository contains all the python projects I've worked on or practiced concepts on.
+This repository contains all the python projects I've worked on or practiced concepts on. The main textbook I used is [LPTHW](https://learnpythonthehardway.org/book/).
 
 # CodeAcademy
 
