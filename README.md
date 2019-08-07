@@ -6,4 +6,4 @@ This repository contains all the python projects I've worked on or practiced con
 
 # CodeAcademy
 
-To solidify my grasp of Python 3, I took the [CodeAcademy Python 3 course] (https://www.codecademy.com/learn/learn-python-3). I've included some of my exercises within this repository.
+To solidify my grasp of Python 3, I took the [CodeAcademy Python 3 course](https://www.codecademy.com/learn/learn-python-3). I've included some of my exercises within this repository.
